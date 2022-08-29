@@ -1,6 +1,5 @@
 package _8_mathSinifi;
 
-import techprocalisma.Deneme;
 
 public class MathSinifi {
     public static void main(String[] args) {
