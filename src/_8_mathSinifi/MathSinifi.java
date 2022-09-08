@@ -18,7 +18,7 @@ public class MathSinifi {
 
         // Static olmayan methoda ulaşmak için önce o sınıftan new kelimesi bir obje yaratılır.
 
-        Deneme deneme = new Deneme(); // Obje oluşturuldu
+      //  Deneme deneme = new Deneme(); // Obje oluşturuldu
 
       /*
 deneme.ornekMethod(); //static olmayan methoda ulaşıldı
